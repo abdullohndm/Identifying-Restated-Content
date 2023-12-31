@@ -1,8 +1,4 @@
 # Paraphrase-Identification-Task
-Paraphrase detection is the task of examining two text entities (ex. sentence) and determining whether they have the same meaning. In order to obtain high accuracy on this task, thorough syntactic and semantic analysis of the two text entities is required.
-
-## What is Paraphrase?
-In simple words, paraphrase is just an alternative representation of the same meaning.
 
 ## Classification of Paraphrases
 According to granularity, paraphrases are of two types.
